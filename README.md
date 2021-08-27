@@ -1,6 +1,7 @@
 # underworld
 
 I love Anime and i use to trust gpg for all sort of communications and if you wanna ask me more about my journey or maybe anime then do send me message by find my gpg key on internet ^.^
+
 # My 30th Anime
 
 Now branded for death and destined to be hunted by demons until the day he dies, Guts embarks on a journey to defy such a gruesome fate, as waves of beasts relentlessly pursue him. Steeling his resolve, he takes up the monstrous blade Dragonslayer and vows to exact vengeance on the one responsible, hunting down the very man he once looked up to and considered a friend.
@@ -9,6 +10,5 @@ Along the way, he encounters some unlikely allies, such as a small elf named Puc
 
 
 Adaptation: Berserk
-Prequel:  Kenpuu Denki Berserk, Berserk: Ougon Jidai-hen III - Kourin
-Sequel: Berserk 2nd Season
+Sequel: Berserk 
 Summary:  Berserk Recap
