@@ -9,6 +9,4 @@ Now branded for death and destined to be hunted by demons until the day he dies,
 Along the way, he encounters some unlikely allies, such as a small elf named Puck, and Isidro, a young thief looking to learn swordsmanship from the former mercenary. As the ragtag group slowly comes together after having decided to join Guts in his quest, they will face incredible danger unlike anything they have ever experienced before.
 
 
-Adaptation: Berserk
-Sequel: Berserk 
-Summary:  Berserk Recap
+
