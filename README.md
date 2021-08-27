@@ -12,4 +12,3 @@ Adaptation: Berserk
 Prequel:  Kenpuu Denki Berserk, Berserk: Ougon Jidai-hen III - Kourin
 Sequel: Berserk 2nd Season
 Summary:  Berserk Recap
-Email: guts.berserk@gmail.com
