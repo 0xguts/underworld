@@ -8,3 +8,5 @@ Along the way, he encounters some unlikely allies, such as a small elf named Puc
 # Disclaimer 
 
 Its not for kids XD
+
+awsSecretKey=c64e8c79aacf5ddb02f1274db2d973f363f4f553ab1692d8d203b4cc09692f79
